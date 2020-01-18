@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: GENCAY10
+Build-Jdk: 11.0.2
+Implementation-Title: springboot-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gencay10.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-demo
+Created-By: Maven Integration for Eclipse
+
